@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="370" height="385" viewBox="0 0 370 385">
+  <g id="c-games" transform="translate(-81 -1355)">
+    <g id="istockphoto-635806804-612x612" transform="translate(81 1355)" stroke="#707070" stroke-width="1">
+      <rect width="370" height="385" rx="30" stroke="none"/>
+      <rect x="0.5" y="0.5" width="369" height="384" rx="29.5" fill="none"/>
+    </g>
+    <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(139 1542)" fill="#1a91ff" stroke="#707070" stroke-width="1">
+      <rect width="256" height="58" rx="17" stroke="none"/>
+      <rect x="0.5" y="0.5" width="255" height="57" rx="16.5" fill="none"/>
+    </g>
+    <text id="COMPLETE_GAMES" data-name="COMPLETE
+GAMES" transform="translate(263 1531)" fill="#fff" font-size="47" font-family="Montserrat-ExtraBoldItalic, Montserrat" font-weight="800" font-style="italic" letter-spacing="0.1em"><tspan x="-153.666" y="0">COMPLETE</tspan><tspan fill="#000"><tspan x="-99.381" y="57">GAMES</tspan></tspan></text>
+  </g>
+</svg>

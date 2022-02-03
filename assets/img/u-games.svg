@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="370" height="385" viewBox="0 0 370 385">
+  <g id="u-games" transform="translate(-630 -297)">
+    <g id="Upcoming-Events" transform="translate(630 297)" stroke="#707070" stroke-width="1">
+      <rect width="370" height="385" rx="30" stroke="none"/>
+      <rect x="0.5" y="0.5" width="369" height="384" rx="29.5" fill="none"/>
+    </g>
+    <g id="Rectangle_12" data-name="Rectangle 12" transform="translate(669 488)" fill="#1a91ff" stroke="#707070" stroke-width="1">
+      <rect width="298" height="58" rx="17" stroke="none"/>
+      <rect x="0.5" y="0.5" width="297" height="57" rx="16.5" fill="none"/>
+    </g>
+    <text id="UPCOMING_MATCHES" data-name="UPCOMING
+MATCHES" transform="translate(818 477)" fill="#fff" font-size="47" font-family="Montserrat-ExtraBoldItalic, Montserrat" font-weight="800" font-style="italic" letter-spacing="0.1em"><tspan x="-156.533" y="0">UPCOMING</tspan><tspan fill="#000"><tspan x="-136.135" y="57">MATCHES</tspan></tspan></text>
+  </g>
+</svg>

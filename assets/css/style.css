@@ -133,6 +133,10 @@ strong {
 	background-color: transparent;
 }
 
+.login-text h2 {
+    font-size: 28px !important;
+}
+
 @media (max-width: 768px) {
     .m-hide {
         display: none !important;
