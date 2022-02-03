@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+@font-face {
+    font-family: "CustomFont";
+    src: url("../font/Inversionz\ Italic.ttf");
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -135,6 +140,15 @@ strong {
 
 .login-text h2 {
     font-size: 28px !important;
+}
+
+.game-text {
+    font-family: 'CustomFont', Arial, sans-serif;
+    text-align: center;
+}
+
+.game-text h1 {
+    font-size: 75px;
 }
 
 @media (max-width: 768px) {
